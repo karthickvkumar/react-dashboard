@@ -1,0 +1,58 @@
+body{
+  font-size: 30px;
+}
+.button {
+    background-color: #30159c;
+    border: none;
+    color: white;
+    padding: 6px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.position-top{
+  margin-top: 5%;
+}
+.header-color{
+    background-color: #8771aa;
+    color: white;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.align-center{
+  float: right;
+  margin-top: -90px;
+  margin-right: 200px;
+}
+
+.padding{
+  margin-bottom: 10px;
+}
+
+.active-btn{
+  box-shadow: -1px 4px 12px 0px rgba(0,0,0,0.75);
+  background-color: #888888;
+}
+
+input{
+    width: 250px;
+    height: 30px;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
